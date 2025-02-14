@@ -221,6 +221,3 @@ app.listen(port, () => {
 2. **Terminate the EC2 Instance**:
    - Go to the AWS EC2 console and terminate the instance if no longer needed.
 
----
-
-This guide provides a simple REST API application using MongoDB running on an AWS EC2 instance. Let me know if you need further assistance!
