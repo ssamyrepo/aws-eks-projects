@@ -1,4 +1,3 @@
-Here are the exact steps to install MongoDB and MongoExpress in Kubernetes, based on the transcript provided. I've corrected any errors and organized the steps for clarity:
 
 ---
 
