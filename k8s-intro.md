@@ -1,7 +1,6 @@
 
 ## Kubernetes Concepts and Example Commands
 
-Here's a breakdown of the concepts discussed in the transcript, along with example commands to illustrate them:
 
 ### 1. Containerization with Docker
 
