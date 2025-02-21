@@ -1,4 +1,4 @@
-Here’s a step-by-step guide to create a **simple REST API application** using **MongoDB** running on an **AWS EC2 instance**. The application will perform **CRUD operations** (Create, Read, Update, Delete) using the REST API.
+create a **simple REST API application** using **MongoDB** running on an **AWS EC2 instance**. The application will perform **CRUD operations** (Create, Read, Update, Delete) using the REST API.
 
 ---
 
@@ -223,4 +223,3 @@ app.listen(port, () => {
 
 ---
 
-This guide provides a simple REST API application using MongoDB running on an AWS EC2 instance. Let me know if you need further assistance!
