@@ -1,4 +1,4 @@
-Here’s a **step-by-step guide** to implement the REST API project  on an **Amazon EC2 instance**. This guide includes all the actual steps to set up the environment, deploy the application, and test the CRUD operations.
+**step-by-step guide** to implement the REST API project  on an **Amazon EC2 instance**. This guide includes all the actual steps to set up the environment, deploy the application, and test the CRUD operations.
 
 ---
 
