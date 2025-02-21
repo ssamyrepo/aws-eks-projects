@@ -1,6 +1,4 @@
-Here’s the guide in **GitHub Markdown format**, including the steps to add the files and automate the deployment of the RESTful API on **AWS EKS** using **Terraform**:
 
----
 
 # Automating RESTful API Deployment on AWS EKS with Terraform
 
@@ -321,7 +319,3 @@ output "load_balancer_url" {
      ```bash
      terraform destroy
      ```
-
----
-
-This Terraform configuration automates the deployment of the RESTful API on AWS EKS. Let me know if you need further assistance!
