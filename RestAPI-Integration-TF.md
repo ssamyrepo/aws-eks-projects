@@ -91,6 +91,3 @@ terraform destroy -auto-approve
 
 ## Conclusion
 This setup automates the deployment of a RESTful API on AWS EKS using Terraform, providing a scalable and manageable cloud-native solution integrated with MongoDB Atlas. Further enhancements can include CI/CD pipelines, monitoring, and security configurations.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
