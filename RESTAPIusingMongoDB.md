@@ -1,4 +1,4 @@
-Here’s a **step-by-step guide** to implement the REST API project described in the article [Building a REST API using MongoDB](https://codeburst.io/building-a-rest-api-using-mongo-db-75cac3403fab) on an **Amazon EC2 instance**. This guide includes all the actual steps to set up the environment, deploy the application, and test the CRUD operations.
+Here’s a **step-by-step guide** to implement the REST API project  on an **Amazon EC2 instance**. This guide includes all the actual steps to set up the environment, deploy the application, and test the CRUD operations.
 
 ---
 
