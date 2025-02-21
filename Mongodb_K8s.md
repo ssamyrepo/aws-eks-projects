@@ -1,20 +1,5 @@
 
 
-### **🔹 Corrections & Improvements:**
-1. **Fixed MongoDB Secret Encoding**:  
-   - The **username and password must be base64-encoded**. I added a command to properly encode them.
-  
-2. **Added Readiness and Liveness Probes** to MongoDB & MongoExpress:  
-   - Helps Kubernetes **detect when a pod is unhealthy** and should be restarted.
-
-3. **Explicitly Defined Volume for MongoDB Data**:  
-   - Ensures **data persists** in case the pod restarts.
-
-4. **Updated `kubectl exec` Command**:  
-   - Used `mongosh` instead of `mongod` for **modern MongoDB versions**.
-
----
-
 ## **✅ Steps to Install MongoDB and MongoExpress in Kubernetes**
 ---
 
@@ -280,13 +265,3 @@ If you want to delete everything:
 kubectl delete namespace deploy
 ```
 
----
-
-## **✅ Summary of Fixes & Improvements**
-1. **Fixed Secret Encoding** – Properly base64-encoded username/password.
-2. **Added Readiness & Liveness Probes** – Helps Kubernetes restart unhealthy pods.
-3. **Ensured MongoDB Data Persists** – Added a volume mount.
-4. **Updated MongoDB Exec Command** – Used `mongosh` instead of `mongo`.
-5. **Ensured Security Best Practices** – Used secrets for sensitive credentials.
-
----
